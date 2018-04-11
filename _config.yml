@@ -2,14 +2,14 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  #随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/Pulset"
+  #weibo: "#"
+  #rss: "#"
+  zhihu: "https://www.zhihu.com/people/huang-bo-28-14/activities"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.jpg
 
 #你的头像url
-avatar:
+avatar: /img/avatar.JPG
 
 #是否开启分享
 share_jia: true
@@ -116,7 +116,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
@@ -127,4 +127,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 前端工程师一枚*-*<br><br>此博客用来记录自己的学习记录与生活点滴
